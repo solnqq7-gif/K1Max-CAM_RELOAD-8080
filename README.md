@@ -6,6 +6,8 @@ It only manages the factory camera on port `8080`. It does not stop or modify an
 
 For Traditional Chinese instructions, see [`繁中README.md`](繁中README.md).
 
+For detailed English installation, operation, and verification steps, see [`OPERATION_GUIDE.md`](OPERATION_GUIDE.md).
+
 ## Package contents
 
 - `cam_reload.sh`: Starts `cam_app`, recreates the MJPEG stream on port `8080`, and verifies a snapshot.
