@@ -93,3 +93,9 @@ ps | grep -E 'cam_app|mjpg_streamer' | grep -v grep
 ## 分享前注意
 
 此資料夾不包含印表機密碼、IP、SSH host key、序號或個人設定。分享時請整個資料夾或 ZIP 一起提供，並提醒使用者先備份自己的 `printer.cfg`。
+
+## 支持
+
+如果這個專案對你有幫助，歡迎請我喝杯咖啡 ☕
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/solnqq)

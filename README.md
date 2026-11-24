@@ -97,3 +97,9 @@ The installer stores copies of replaced files under:
 ## Before sharing
 
 This package does not contain printer passwords, IP addresses, SSH host keys, serial numbers, or personal configuration. Share the complete folder or ZIP file and remind users to back up their own `printer.cfg` before installing.
+
+## Support
+
+If my work helped you, you can buy me a coffee ☕
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/solnqq)
